@@ -76,6 +76,10 @@ void Error_Handler(void);
 #define OUT7_GPIO_Port GPIOA
 #define BUTTON_Pin GPIO_PIN_0
 #define BUTTON_GPIO_Port GPIOB
+#define BUTTON1_Pin GPIO_PIN_1
+#define BUTTON1_GPIO_Port GPIOB
+#define BUTTON2_Pin GPIO_PIN_2
+#define BUTTON2_GPIO_Port GPIOB
 #define OUT2_12_Pin GPIO_PIN_12
 #define OUT2_12_GPIO_Port GPIOB
 #define OUT2_13_Pin GPIO_PIN_13
