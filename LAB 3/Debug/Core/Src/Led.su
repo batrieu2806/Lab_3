@@ -1,0 +1,4 @@
+Led.c:12:6:display7SEGFirstSet	16	static
+Led.c:92:6:display7SEGSecondSet	16	static
+Led.c:172:6:update7SEGFirstSet	24	static
+Led.c:187:6:update7SEGSecondSet	24	static
